@@ -1,7 +1,7 @@
 export default {
-    card1: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Crect width='500' height='500' fill='%23ffe4ec'/%3E%3Ccircle cx='250' cy='250' r='100' fill='%23ff69b4' style='filter:blur(20px);opacity:0.5'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='cursive' font-size='50' fill='%23c71585'%3EUs Two %F0%9F%92%95%3C/text%3E%3C/svg%3E",
-    card2: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Crect width='500' height='500' fill='%23fff0f5'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='cursive' font-size='50' fill='%23ff1493'%3ESmile %E2%9C%A8%3C/text%3E%3C/svg%3E",
-    card3: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Crect width='500' height='500' fill='%23e6e6fa'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='cursive' font-size='50' fill='%239370db'%3EDreamy %F0%9F%8C%9F%3C/text%3E%3C/svg%3E",
-    card4: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Crect width='500' height='500' fill='%23ffc0cb'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='cursive' font-size='50' fill='%23ff0000'%3EHeartbeat %F0%9F%92%93%3C/text%3E%3C/svg%3E",
-    card5: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Crect width='500' height='500' fill='%23fce4ec'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='cursive' font-size='50' fill='%23d81b60'%3EQuestion %E2%9D%93%3C/text%3E%3C/svg%3E"
+    card1: "https://images.unsplash.com/photo-1518199266791-5375a83190b9?q=80&w=1000&auto=format&fit=crop", // Couple under stars/romantic
+    card2: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1000&auto=format&fit=crop", // Radiant smile
+    card3: "https://images.unsplash.com/photo-1496247749665-49cf5bf8756f?q=80&w=1000&auto=format&fit=crop", // Dreamy clouds
+    card4: "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?q=80&w=1000&auto=format&fit=crop", // Heart/Love
+    card5: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=1000&auto=format&fit=crop"  // Wedding ring/Question
 };
